@@ -2,7 +2,7 @@
 
 Senior Cloud Architect with 9+ years of experience designing enterprise-scale data platforms across AWS, Azure, and GCP.
 
-## 🔹 Core Expertise
+## Core Expertise
 - Multi-Cloud Architecture (AWS | Azure | GCP)
 - BigQuery, Dataflow, GKE, Vertex AI
 - Apache Spark, Kafka, Real-Time Streaming
